@@ -1,7 +1,6 @@
 # about
 ```yaml
-Cell Biology & Genetics major + CS minor
-prospective PhD student
+Cell Biology major + CS minor @ UMD
 
 Labs:
   Klauda Lab (Jan 2024 - present)
