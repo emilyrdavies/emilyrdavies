@@ -1,6 +1,6 @@
 # about
 ```yaml
-UMD undergraduate student
+UMD undergraduate student ('26)
 Major: Cell Biology & Molecular Genetics
 Minor: Computer Science
 
