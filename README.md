@@ -8,5 +8,5 @@ Certificate: ACES (Advanced Cybersecurity Experience for Students) (2024)
 
 Labs:
   Klauda Lab (Jan 2024 - present)
-  Weitz Group (June 2025 - )
+  Weitz Group (starting June 2025 )
 ```
