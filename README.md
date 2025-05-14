@@ -7,5 +7,5 @@ Minor: Computer Science
 Certificate: ACES (Advanced Cybersecurity Experience for Students) (2024)
 
 Klauda Lab (Jan 2024 - present)
- Weitz Group (starting June 2025)
+Weitz Group (starting June 2025)
 ```
